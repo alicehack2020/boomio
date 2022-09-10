@@ -19,8 +19,7 @@ const ViewProject = () => {
 
 
 
-  return (
-    <div>
+  return <div>
       {
         data ? <div>
         
@@ -30,7 +29,7 @@ const ViewProject = () => {
       </div> : <></>
       }
     </div>
-  )
+  
 }
 
 export default ViewProject
