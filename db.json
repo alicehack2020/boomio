@@ -1,0 +1,64 @@
+{
+  "home": [
+    {
+       "ProjectID":2234001,
+       "Project_Name":"Bridge Construction",
+       "Budget":200,
+       "End_Date":"27/12/2027",
+       "Project_Manager":"Ram Kishan",
+       "Start_Date":"27/12/2020",
+       "Site_Address":"#25 Rampur UP",
+       "RailwayStation":"Rampur Junction",
+       "Supplier_1":"Cement Supplier",
+       "ContactPerson":"Babulal",
+       "Phone":"12345678",
+       "email":"Babulal@babulal.com",
+       "Project_Status":"done" 
+    },
+    {
+      "ProjectID":2234002,
+      "Project_Name":"Bridge Construction",
+      "Budget":200,
+      "End_Date":"27/12/2027",
+      "Project_Manager":"Ram Kishan",
+      "Start_Date":"27/12/2020",
+      "Site_Address":"#25 Rampur UP",
+      "RailwayStation":"Rampur Junction",
+      "Supplier_1":"Cement Supplier",
+      "ContactPerson":"Babulal",
+      "Phone":"12345678",
+      "email":"Babulal@babulal.com",
+      "Project_Status":"done" 
+   },
+   {
+    "ProjectID":2234003,
+    "Project_Name":"Bridge Construction",
+    "Budget":200,
+    "End_Date":"27/12/2027",
+    "Project_Manager":"Ram Kishan",
+    "Start_Date":"27/12/2020",
+    "Site_Address":"#25 Rampur UP",
+    "RailwayStation":"Rampur Junction",
+    "Supplier_1":"Cement Supplier",
+    "ContactPerson":"Babulal",
+    "Phone":"12345678",
+    "email":"Babulal@babulal.com",
+    "Project_Status":"done" 
+ },
+ {
+  "ProjectID":2234004,
+  "Project_Name":"Bridge Construction",
+  "Budget":200,
+  "End_Date":"27/12/2027",
+  "Project_Manager":"Ram Kishan",
+  "Start_Date":"27/12/2020",
+  "Site_Address":"#25 Rampur UP",
+  "RailwayStation":"Rampur Junction",
+  "Supplier_1":"Cement Supplier",
+  "ContactPerson":"Babulal",
+  "Phone":"12345678",
+  "email":"Babulal@babulal.com",
+  "Project_Status":"done" 
+}
+  ]
+}
