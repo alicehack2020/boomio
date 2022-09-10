@@ -14,7 +14,7 @@ const ViewProject = () => {
       {
       setData(json)
        console.log(json) 
-      })
+      }).catch(erro=>console.log(erro))
   },[])
 
 
